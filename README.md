@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Hiruvinda/LeetCode/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Hiruvinda/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Hiruvinda/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
