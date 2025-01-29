@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Hiruvinda/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Hiruvinda/LeetCode/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Hiruvinda/LeetCode/tree/master/0061-rotate-list) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Hiruvinda/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
