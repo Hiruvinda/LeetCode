@@ -7,6 +7,7 @@
 | [0049-group-anagrams](https://github.com/Hiruvinda/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Hiruvinda/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Hiruvinda/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Hiruvinda/LeetCode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hiruvinda/LeetCode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Hiruvinda/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Hiruvinda/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
