@@ -8,6 +8,7 @@
 | [0051-n-queens](https://github.com/Hiruvinda/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Hiruvinda/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Hiruvinda/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Hiruvinda/LeetCode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hiruvinda/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Hiruvinda/LeetCode/tree/master/0055-jump-game) |
 ## Matrix
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hiruvinda/LeetCode/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Hiruvinda/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
